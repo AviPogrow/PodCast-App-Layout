@@ -31,7 +31,7 @@ extension BrowseViewController: UITableViewDataSource, UITableViewDelegate {
     
     func tableView(_ tableView: UITableView,
                           titleForHeaderInSection section: Int) -> String? {
-        var title = ""
+        let title = ""
         
         return title
     }
